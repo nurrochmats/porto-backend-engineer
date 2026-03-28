@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { useInView } from '@/lib/useInView'
-import { Badge } from '@/components/ui/badge'
+// import { Badge } from '@/components/ui/badge'
 import { Server, Database, Layout, GitBranch, Cpu } from 'lucide-react'
 
 const expertise = [
